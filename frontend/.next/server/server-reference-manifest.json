@@ -1,0 +1,150 @@
+{
+  "node": {
+    "4aa61803bdcc228410138d67adcd145911ccf9fa": {
+      "workers": {
+        "app/login/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cyouco%5C%5CDesktop%5C%5CAPIs%5C%5Cbusiness-card%5C%5Cfrontend%5C%5Csrc%5C%5Cactions%5C%5Clogin.ts%22%2C%5B%22login%22%2C%22%24%24ACTION_0%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/login/page": "action-browser"
+      }
+    },
+    "8e0abf03453d9cf72f7f8e4ee062e1b09676960f": {
+      "workers": {
+        "app/login/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cyouco%5C%5CDesktop%5C%5CAPIs%5C%5Cbusiness-card%5C%5Cfrontend%5C%5Csrc%5C%5Cactions%5C%5Clogin.ts%22%2C%5B%22login%22%2C%22%24%24ACTION_0%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/login/page": "action-browser"
+      }
+    },
+    "d18794cfe24d24e06937947c2eb6a7a8d6d151d5": {
+      "workers": {
+        "app/dashboard/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cyouco%5C%5CDesktop%5C%5CAPIs%5C%5Cbusiness-card%5C%5Cfrontend%5C%5Csrc%5C%5Clib%5C%5CgetSessions.ts%22%2C%5B%22getSession%22%2C%22%24%24ACTION_0%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/dashboard/page": "rsc"
+      }
+    },
+    "edd6270ef190b03eb9bab1ac412078e35b93eeaa": {
+      "workers": {
+        "app/dashboard/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cyouco%5C%5CDesktop%5C%5CAPIs%5C%5Cbusiness-card%5C%5Cfrontend%5C%5Csrc%5C%5Clib%5C%5CgetSessions.ts%22%2C%5B%22getSession%22%2C%22%24%24ACTION_0%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/dashboard/page": "rsc"
+      }
+    },
+    "0d2e8c470e7067d5961ac6567b36adca436c81cf": {
+      "workers": {
+        "app/dashboard/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cyouco%5C%5CDesktop%5C%5CAPIs%5C%5Cbusiness-card%5C%5Cfrontend%5C%5Csrc%5C%5Cactions%5C%5CcreateCard.tsx%22%2C%5B%22createCard%22%2C%22%24%24ACTION_0%22%5D%5D%2C%5B%22C%3A%5C%5CUsers%5C%5Cyouco%5C%5CDesktop%5C%5CAPIs%5C%5Cbusiness-card%5C%5Cfrontend%5C%5Csrc%5C%5Cactions%5C%5CupdateCard.tsx%22%2C%5B%22updateCard%22%2C%22%24%24ACTION_0%22%5D%5D%2C%5B%22C%3A%5C%5CUsers%5C%5Cyouco%5C%5CDesktop%5C%5CAPIs%5C%5Cbusiness-card%5C%5Cfrontend%5C%5Csrc%5C%5Cactions%5C%5Cprofile.ts%22%2C%5B%22logout%22%2C%22changeRole%22%2C%22getSessionClient%22%2C%22%24%24ACTION_2%22%2C%22%24%24ACTION_0%22%2C%22changeName%22%2C%22%24%24ACTION_3%22%2C%22%24%24ACTION_1%22%5D%5D%2C%5B%22C%3A%5C%5CUsers%5C%5Cyouco%5C%5CDesktop%5C%5CAPIs%5C%5Cbusiness-card%5C%5Cfrontend%5C%5Csrc%5C%5Cactions%5C%5CdeleteCard.ts%22%2C%5B%22%24%24ACTION_0%22%2C%22deleteCard%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/dashboard/page": "action-browser"
+      }
+    },
+    "42def155a4e884952a6f1e66f06bfc3e1275ad51": {
+      "workers": {
+        "app/dashboard/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cyouco%5C%5CDesktop%5C%5CAPIs%5C%5Cbusiness-card%5C%5Cfrontend%5C%5Csrc%5C%5Cactions%5C%5CcreateCard.tsx%22%2C%5B%22createCard%22%2C%22%24%24ACTION_0%22%5D%5D%2C%5B%22C%3A%5C%5CUsers%5C%5Cyouco%5C%5CDesktop%5C%5CAPIs%5C%5Cbusiness-card%5C%5Cfrontend%5C%5Csrc%5C%5Cactions%5C%5CupdateCard.tsx%22%2C%5B%22updateCard%22%2C%22%24%24ACTION_0%22%5D%5D%2C%5B%22C%3A%5C%5CUsers%5C%5Cyouco%5C%5CDesktop%5C%5CAPIs%5C%5Cbusiness-card%5C%5Cfrontend%5C%5Csrc%5C%5Cactions%5C%5Cprofile.ts%22%2C%5B%22logout%22%2C%22changeRole%22%2C%22getSessionClient%22%2C%22%24%24ACTION_2%22%2C%22%24%24ACTION_0%22%2C%22changeName%22%2C%22%24%24ACTION_3%22%2C%22%24%24ACTION_1%22%5D%5D%2C%5B%22C%3A%5C%5CUsers%5C%5Cyouco%5C%5CDesktop%5C%5CAPIs%5C%5Cbusiness-card%5C%5Cfrontend%5C%5Csrc%5C%5Cactions%5C%5CdeleteCard.ts%22%2C%5B%22%24%24ACTION_0%22%2C%22deleteCard%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/dashboard/page": "action-browser"
+      }
+    },
+    "56f6b62ebe3be544870c3c75395f5d90ce715727": {
+      "workers": {
+        "app/dashboard/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cyouco%5C%5CDesktop%5C%5CAPIs%5C%5Cbusiness-card%5C%5Cfrontend%5C%5Csrc%5C%5Cactions%5C%5CcreateCard.tsx%22%2C%5B%22createCard%22%2C%22%24%24ACTION_0%22%5D%5D%2C%5B%22C%3A%5C%5CUsers%5C%5Cyouco%5C%5CDesktop%5C%5CAPIs%5C%5Cbusiness-card%5C%5Cfrontend%5C%5Csrc%5C%5Cactions%5C%5CupdateCard.tsx%22%2C%5B%22updateCard%22%2C%22%24%24ACTION_0%22%5D%5D%2C%5B%22C%3A%5C%5CUsers%5C%5Cyouco%5C%5CDesktop%5C%5CAPIs%5C%5Cbusiness-card%5C%5Cfrontend%5C%5Csrc%5C%5Cactions%5C%5Cprofile.ts%22%2C%5B%22logout%22%2C%22changeRole%22%2C%22getSessionClient%22%2C%22%24%24ACTION_2%22%2C%22%24%24ACTION_0%22%2C%22changeName%22%2C%22%24%24ACTION_3%22%2C%22%24%24ACTION_1%22%5D%5D%2C%5B%22C%3A%5C%5CUsers%5C%5Cyouco%5C%5CDesktop%5C%5CAPIs%5C%5Cbusiness-card%5C%5Cfrontend%5C%5Csrc%5C%5Cactions%5C%5CdeleteCard.ts%22%2C%5B%22%24%24ACTION_0%22%2C%22deleteCard%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/dashboard/page": "action-browser"
+      }
+    },
+    "d46320ceaa0e1005f6583b9ec67bd7a9586516d8": {
+      "workers": {
+        "app/dashboard/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cyouco%5C%5CDesktop%5C%5CAPIs%5C%5Cbusiness-card%5C%5Cfrontend%5C%5Csrc%5C%5Cactions%5C%5CcreateCard.tsx%22%2C%5B%22createCard%22%2C%22%24%24ACTION_0%22%5D%5D%2C%5B%22C%3A%5C%5CUsers%5C%5Cyouco%5C%5CDesktop%5C%5CAPIs%5C%5Cbusiness-card%5C%5Cfrontend%5C%5Csrc%5C%5Cactions%5C%5CupdateCard.tsx%22%2C%5B%22updateCard%22%2C%22%24%24ACTION_0%22%5D%5D%2C%5B%22C%3A%5C%5CUsers%5C%5Cyouco%5C%5CDesktop%5C%5CAPIs%5C%5Cbusiness-card%5C%5Cfrontend%5C%5Csrc%5C%5Cactions%5C%5Cprofile.ts%22%2C%5B%22logout%22%2C%22changeRole%22%2C%22getSessionClient%22%2C%22%24%24ACTION_2%22%2C%22%24%24ACTION_0%22%2C%22changeName%22%2C%22%24%24ACTION_3%22%2C%22%24%24ACTION_1%22%5D%5D%2C%5B%22C%3A%5C%5CUsers%5C%5Cyouco%5C%5CDesktop%5C%5CAPIs%5C%5Cbusiness-card%5C%5Cfrontend%5C%5Csrc%5C%5Cactions%5C%5CdeleteCard.ts%22%2C%5B%22%24%24ACTION_0%22%2C%22deleteCard%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/dashboard/page": "action-browser"
+      }
+    },
+    "122c7855f301eaeeb71d0146f74cd867a99a9427": {
+      "workers": {
+        "app/dashboard/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cyouco%5C%5CDesktop%5C%5CAPIs%5C%5Cbusiness-card%5C%5Cfrontend%5C%5Csrc%5C%5Cactions%5C%5CcreateCard.tsx%22%2C%5B%22createCard%22%2C%22%24%24ACTION_0%22%5D%5D%2C%5B%22C%3A%5C%5CUsers%5C%5Cyouco%5C%5CDesktop%5C%5CAPIs%5C%5Cbusiness-card%5C%5Cfrontend%5C%5Csrc%5C%5Cactions%5C%5CupdateCard.tsx%22%2C%5B%22updateCard%22%2C%22%24%24ACTION_0%22%5D%5D%2C%5B%22C%3A%5C%5CUsers%5C%5Cyouco%5C%5CDesktop%5C%5CAPIs%5C%5Cbusiness-card%5C%5Cfrontend%5C%5Csrc%5C%5Cactions%5C%5Cprofile.ts%22%2C%5B%22logout%22%2C%22changeRole%22%2C%22getSessionClient%22%2C%22%24%24ACTION_2%22%2C%22%24%24ACTION_0%22%2C%22changeName%22%2C%22%24%24ACTION_3%22%2C%22%24%24ACTION_1%22%5D%5D%2C%5B%22C%3A%5C%5CUsers%5C%5Cyouco%5C%5CDesktop%5C%5CAPIs%5C%5Cbusiness-card%5C%5Cfrontend%5C%5Csrc%5C%5Cactions%5C%5CdeleteCard.ts%22%2C%5B%22%24%24ACTION_0%22%2C%22deleteCard%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/dashboard/page": "action-browser"
+      }
+    },
+    "3395e45963d621f6c1a6c18a4b1211f528fb04ce": {
+      "workers": {
+        "app/dashboard/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cyouco%5C%5CDesktop%5C%5CAPIs%5C%5Cbusiness-card%5C%5Cfrontend%5C%5Csrc%5C%5Cactions%5C%5CcreateCard.tsx%22%2C%5B%22createCard%22%2C%22%24%24ACTION_0%22%5D%5D%2C%5B%22C%3A%5C%5CUsers%5C%5Cyouco%5C%5CDesktop%5C%5CAPIs%5C%5Cbusiness-card%5C%5Cfrontend%5C%5Csrc%5C%5Cactions%5C%5CupdateCard.tsx%22%2C%5B%22updateCard%22%2C%22%24%24ACTION_0%22%5D%5D%2C%5B%22C%3A%5C%5CUsers%5C%5Cyouco%5C%5CDesktop%5C%5CAPIs%5C%5Cbusiness-card%5C%5Cfrontend%5C%5Csrc%5C%5Cactions%5C%5Cprofile.ts%22%2C%5B%22logout%22%2C%22changeRole%22%2C%22getSessionClient%22%2C%22%24%24ACTION_2%22%2C%22%24%24ACTION_0%22%2C%22changeName%22%2C%22%24%24ACTION_3%22%2C%22%24%24ACTION_1%22%5D%5D%2C%5B%22C%3A%5C%5CUsers%5C%5Cyouco%5C%5CDesktop%5C%5CAPIs%5C%5Cbusiness-card%5C%5Cfrontend%5C%5Csrc%5C%5Cactions%5C%5CdeleteCard.ts%22%2C%5B%22%24%24ACTION_0%22%2C%22deleteCard%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/dashboard/page": "action-browser"
+      }
+    },
+    "3c62ee2a81af037b1c8721deafb5cc1bf377bc6d": {
+      "workers": {
+        "app/dashboard/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cyouco%5C%5CDesktop%5C%5CAPIs%5C%5Cbusiness-card%5C%5Cfrontend%5C%5Csrc%5C%5Cactions%5C%5CcreateCard.tsx%22%2C%5B%22createCard%22%2C%22%24%24ACTION_0%22%5D%5D%2C%5B%22C%3A%5C%5CUsers%5C%5Cyouco%5C%5CDesktop%5C%5CAPIs%5C%5Cbusiness-card%5C%5Cfrontend%5C%5Csrc%5C%5Cactions%5C%5CupdateCard.tsx%22%2C%5B%22updateCard%22%2C%22%24%24ACTION_0%22%5D%5D%2C%5B%22C%3A%5C%5CUsers%5C%5Cyouco%5C%5CDesktop%5C%5CAPIs%5C%5Cbusiness-card%5C%5Cfrontend%5C%5Csrc%5C%5Cactions%5C%5Cprofile.ts%22%2C%5B%22logout%22%2C%22changeRole%22%2C%22getSessionClient%22%2C%22%24%24ACTION_2%22%2C%22%24%24ACTION_0%22%2C%22changeName%22%2C%22%24%24ACTION_3%22%2C%22%24%24ACTION_1%22%5D%5D%2C%5B%22C%3A%5C%5CUsers%5C%5Cyouco%5C%5CDesktop%5C%5CAPIs%5C%5Cbusiness-card%5C%5Cfrontend%5C%5Csrc%5C%5Cactions%5C%5CdeleteCard.ts%22%2C%5B%22%24%24ACTION_0%22%2C%22deleteCard%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/dashboard/page": "action-browser"
+      }
+    },
+    "3e325dced0a95e584ab36edf0600b4a15df60b14": {
+      "workers": {
+        "app/dashboard/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cyouco%5C%5CDesktop%5C%5CAPIs%5C%5Cbusiness-card%5C%5Cfrontend%5C%5Csrc%5C%5Cactions%5C%5CcreateCard.tsx%22%2C%5B%22createCard%22%2C%22%24%24ACTION_0%22%5D%5D%2C%5B%22C%3A%5C%5CUsers%5C%5Cyouco%5C%5CDesktop%5C%5CAPIs%5C%5Cbusiness-card%5C%5Cfrontend%5C%5Csrc%5C%5Cactions%5C%5CupdateCard.tsx%22%2C%5B%22updateCard%22%2C%22%24%24ACTION_0%22%5D%5D%2C%5B%22C%3A%5C%5CUsers%5C%5Cyouco%5C%5CDesktop%5C%5CAPIs%5C%5Cbusiness-card%5C%5Cfrontend%5C%5Csrc%5C%5Cactions%5C%5Cprofile.ts%22%2C%5B%22logout%22%2C%22changeRole%22%2C%22getSessionClient%22%2C%22%24%24ACTION_2%22%2C%22%24%24ACTION_0%22%2C%22changeName%22%2C%22%24%24ACTION_3%22%2C%22%24%24ACTION_1%22%5D%5D%2C%5B%22C%3A%5C%5CUsers%5C%5Cyouco%5C%5CDesktop%5C%5CAPIs%5C%5Cbusiness-card%5C%5Cfrontend%5C%5Csrc%5C%5Cactions%5C%5CdeleteCard.ts%22%2C%5B%22%24%24ACTION_0%22%2C%22deleteCard%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/dashboard/page": "action-browser"
+      }
+    },
+    "7a6e4f012efe80fa6b29c2d8f3190959cc955072": {
+      "workers": {
+        "app/dashboard/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cyouco%5C%5CDesktop%5C%5CAPIs%5C%5Cbusiness-card%5C%5Cfrontend%5C%5Csrc%5C%5Cactions%5C%5CcreateCard.tsx%22%2C%5B%22createCard%22%2C%22%24%24ACTION_0%22%5D%5D%2C%5B%22C%3A%5C%5CUsers%5C%5Cyouco%5C%5CDesktop%5C%5CAPIs%5C%5Cbusiness-card%5C%5Cfrontend%5C%5Csrc%5C%5Cactions%5C%5CupdateCard.tsx%22%2C%5B%22updateCard%22%2C%22%24%24ACTION_0%22%5D%5D%2C%5B%22C%3A%5C%5CUsers%5C%5Cyouco%5C%5CDesktop%5C%5CAPIs%5C%5Cbusiness-card%5C%5Cfrontend%5C%5Csrc%5C%5Cactions%5C%5Cprofile.ts%22%2C%5B%22logout%22%2C%22changeRole%22%2C%22getSessionClient%22%2C%22%24%24ACTION_2%22%2C%22%24%24ACTION_0%22%2C%22changeName%22%2C%22%24%24ACTION_3%22%2C%22%24%24ACTION_1%22%5D%5D%2C%5B%22C%3A%5C%5CUsers%5C%5Cyouco%5C%5CDesktop%5C%5CAPIs%5C%5Cbusiness-card%5C%5Cfrontend%5C%5Csrc%5C%5Cactions%5C%5CdeleteCard.ts%22%2C%5B%22%24%24ACTION_0%22%2C%22deleteCard%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/dashboard/page": "action-browser"
+      }
+    },
+    "9ebb9bfb55b13f03cd24c4124a29218cdcca3234": {
+      "workers": {
+        "app/dashboard/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cyouco%5C%5CDesktop%5C%5CAPIs%5C%5Cbusiness-card%5C%5Cfrontend%5C%5Csrc%5C%5Cactions%5C%5CcreateCard.tsx%22%2C%5B%22createCard%22%2C%22%24%24ACTION_0%22%5D%5D%2C%5B%22C%3A%5C%5CUsers%5C%5Cyouco%5C%5CDesktop%5C%5CAPIs%5C%5Cbusiness-card%5C%5Cfrontend%5C%5Csrc%5C%5Cactions%5C%5CupdateCard.tsx%22%2C%5B%22updateCard%22%2C%22%24%24ACTION_0%22%5D%5D%2C%5B%22C%3A%5C%5CUsers%5C%5Cyouco%5C%5CDesktop%5C%5CAPIs%5C%5Cbusiness-card%5C%5Cfrontend%5C%5Csrc%5C%5Cactions%5C%5Cprofile.ts%22%2C%5B%22logout%22%2C%22changeRole%22%2C%22getSessionClient%22%2C%22%24%24ACTION_2%22%2C%22%24%24ACTION_0%22%2C%22changeName%22%2C%22%24%24ACTION_3%22%2C%22%24%24ACTION_1%22%5D%5D%2C%5B%22C%3A%5C%5CUsers%5C%5Cyouco%5C%5CDesktop%5C%5CAPIs%5C%5Cbusiness-card%5C%5Cfrontend%5C%5Csrc%5C%5Cactions%5C%5CdeleteCard.ts%22%2C%5B%22%24%24ACTION_0%22%2C%22deleteCard%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/dashboard/page": "action-browser"
+      }
+    },
+    "9f59a751bc0fef0b853083f6d7d86d6a0cf2321e": {
+      "workers": {
+        "app/dashboard/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cyouco%5C%5CDesktop%5C%5CAPIs%5C%5Cbusiness-card%5C%5Cfrontend%5C%5Csrc%5C%5Cactions%5C%5CcreateCard.tsx%22%2C%5B%22createCard%22%2C%22%24%24ACTION_0%22%5D%5D%2C%5B%22C%3A%5C%5CUsers%5C%5Cyouco%5C%5CDesktop%5C%5CAPIs%5C%5Cbusiness-card%5C%5Cfrontend%5C%5Csrc%5C%5Cactions%5C%5CupdateCard.tsx%22%2C%5B%22updateCard%22%2C%22%24%24ACTION_0%22%5D%5D%2C%5B%22C%3A%5C%5CUsers%5C%5Cyouco%5C%5CDesktop%5C%5CAPIs%5C%5Cbusiness-card%5C%5Cfrontend%5C%5Csrc%5C%5Cactions%5C%5Cprofile.ts%22%2C%5B%22logout%22%2C%22changeRole%22%2C%22getSessionClient%22%2C%22%24%24ACTION_2%22%2C%22%24%24ACTION_0%22%2C%22changeName%22%2C%22%24%24ACTION_3%22%2C%22%24%24ACTION_1%22%5D%5D%2C%5B%22C%3A%5C%5CUsers%5C%5Cyouco%5C%5CDesktop%5C%5CAPIs%5C%5Cbusiness-card%5C%5Cfrontend%5C%5Csrc%5C%5Cactions%5C%5CdeleteCard.ts%22%2C%5B%22%24%24ACTION_0%22%2C%22deleteCard%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/dashboard/page": "action-browser"
+      }
+    },
+    "a4557fe1397321706a97fc2e3ed74bdd00d2035b": {
+      "workers": {
+        "app/dashboard/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cyouco%5C%5CDesktop%5C%5CAPIs%5C%5Cbusiness-card%5C%5Cfrontend%5C%5Csrc%5C%5Cactions%5C%5CcreateCard.tsx%22%2C%5B%22createCard%22%2C%22%24%24ACTION_0%22%5D%5D%2C%5B%22C%3A%5C%5CUsers%5C%5Cyouco%5C%5CDesktop%5C%5CAPIs%5C%5Cbusiness-card%5C%5Cfrontend%5C%5Csrc%5C%5Cactions%5C%5CupdateCard.tsx%22%2C%5B%22updateCard%22%2C%22%24%24ACTION_0%22%5D%5D%2C%5B%22C%3A%5C%5CUsers%5C%5Cyouco%5C%5CDesktop%5C%5CAPIs%5C%5Cbusiness-card%5C%5Cfrontend%5C%5Csrc%5C%5Cactions%5C%5Cprofile.ts%22%2C%5B%22logout%22%2C%22changeRole%22%2C%22getSessionClient%22%2C%22%24%24ACTION_2%22%2C%22%24%24ACTION_0%22%2C%22changeName%22%2C%22%24%24ACTION_3%22%2C%22%24%24ACTION_1%22%5D%5D%2C%5B%22C%3A%5C%5CUsers%5C%5Cyouco%5C%5CDesktop%5C%5CAPIs%5C%5Cbusiness-card%5C%5Cfrontend%5C%5Csrc%5C%5Cactions%5C%5CdeleteCard.ts%22%2C%5B%22%24%24ACTION_0%22%2C%22deleteCard%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/dashboard/page": "action-browser"
+      }
+    },
+    "7ee32bd30b80b73f11e6db4a166f6dacbd6ed0a2": {
+      "workers": {
+        "app/dashboard/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cyouco%5C%5CDesktop%5C%5CAPIs%5C%5Cbusiness-card%5C%5Cfrontend%5C%5Csrc%5C%5Cactions%5C%5CcreateCard.tsx%22%2C%5B%22createCard%22%2C%22%24%24ACTION_0%22%5D%5D%2C%5B%22C%3A%5C%5CUsers%5C%5Cyouco%5C%5CDesktop%5C%5CAPIs%5C%5Cbusiness-card%5C%5Cfrontend%5C%5Csrc%5C%5Cactions%5C%5CupdateCard.tsx%22%2C%5B%22updateCard%22%2C%22%24%24ACTION_0%22%5D%5D%2C%5B%22C%3A%5C%5CUsers%5C%5Cyouco%5C%5CDesktop%5C%5CAPIs%5C%5Cbusiness-card%5C%5Cfrontend%5C%5Csrc%5C%5Cactions%5C%5Cprofile.ts%22%2C%5B%22logout%22%2C%22changeRole%22%2C%22getSessionClient%22%2C%22%24%24ACTION_2%22%2C%22%24%24ACTION_0%22%2C%22changeName%22%2C%22%24%24ACTION_3%22%2C%22%24%24ACTION_1%22%5D%5D%2C%5B%22C%3A%5C%5CUsers%5C%5Cyouco%5C%5CDesktop%5C%5CAPIs%5C%5Cbusiness-card%5C%5Cfrontend%5C%5Csrc%5C%5Cactions%5C%5CdeleteCard.ts%22%2C%5B%22%24%24ACTION_0%22%2C%22deleteCard%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/dashboard/page": "action-browser"
+      }
+    },
+    "a46f255a4ce90e1b9481d3780be1131fe40775f6": {
+      "workers": {
+        "app/dashboard/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cyouco%5C%5CDesktop%5C%5CAPIs%5C%5Cbusiness-card%5C%5Cfrontend%5C%5Csrc%5C%5Cactions%5C%5CcreateCard.tsx%22%2C%5B%22createCard%22%2C%22%24%24ACTION_0%22%5D%5D%2C%5B%22C%3A%5C%5CUsers%5C%5Cyouco%5C%5CDesktop%5C%5CAPIs%5C%5Cbusiness-card%5C%5Cfrontend%5C%5Csrc%5C%5Cactions%5C%5CupdateCard.tsx%22%2C%5B%22updateCard%22%2C%22%24%24ACTION_0%22%5D%5D%2C%5B%22C%3A%5C%5CUsers%5C%5Cyouco%5C%5CDesktop%5C%5CAPIs%5C%5Cbusiness-card%5C%5Cfrontend%5C%5Csrc%5C%5Cactions%5C%5Cprofile.ts%22%2C%5B%22logout%22%2C%22changeRole%22%2C%22getSessionClient%22%2C%22%24%24ACTION_2%22%2C%22%24%24ACTION_0%22%2C%22changeName%22%2C%22%24%24ACTION_3%22%2C%22%24%24ACTION_1%22%5D%5D%2C%5B%22C%3A%5C%5CUsers%5C%5Cyouco%5C%5CDesktop%5C%5CAPIs%5C%5Cbusiness-card%5C%5Cfrontend%5C%5Csrc%5C%5Cactions%5C%5CdeleteCard.ts%22%2C%5B%22%24%24ACTION_0%22%2C%22deleteCard%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/dashboard/page": "action-browser"
+      }
+    }
+  },
+  "edge": {},
+  "encryptionKey": "63VoPKxdWFNFKbFj/7K8v4+0MZRaAs5SaL1Rxs2yuMM="
+}
